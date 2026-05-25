@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalogos>
+  <categoria nombre="Electrónica">
+    <producto_tipo>Smartphone</producto_tipo>
+    <producto_tipo>Laptop</producto_tipo>
+    <producto_tipo>Televisor</producto_tipo>
+    <producto_tipo>Audífonos</producto_tipo>
+    <producto_tipo>Cargador</producto_tipo>
+  </categoria>
+  <categoria nombre="Ropa">
+    <producto_tipo>Camisa</producto_tipo>
+    <producto_tipo>Pantalón</producto_tipo>
+    <producto_tipo>Chaqueta</producto_tipo>
+    <producto_tipo>Zapatos</producto_tipo>
+    <producto_tipo>Vestido</producto_tipo>
+  </categoria>
+  <categoria nombre="Hogar">
+    <producto_tipo>Sofá</producto_tipo>
+    <producto_tipo>Mesa</producto_tipo>
+    <producto_tipo>Lámpara</producto_tipo>
+    <producto_tipo>Espejo</producto_tipo>
+    <producto_tipo>Licuadora</producto_tipo>
+  </categoria>
+</catalogos>
