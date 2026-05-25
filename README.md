@@ -2,13 +2,13 @@
 
 Este proyecto implementa un pipeline de Ingeniería de Datos completo (ETL) utilizando **Python** para extraer, transformar y cargar datos provenientes de fuentes mixtas (Bases de datos Relacionales, NoSQL y Archivos Planos/Estructurados). El objetivo final es consolidar un *Data Master* optimizado y generar análisis avanzados 
 
-## 👥 Autores
+##  Autores
 * **Jesús Leonardo Torres Soberanes**
 * **Francisco Fernando Cartajena Loaiza**
 
 ---
 
-## 📊 Arquitectura del Ecosistema
+##  Arquitectura del Ecosistema
 
 El pipeline procesa información de los siguientes componentes:
 1. **SQL (MySQL):** Extracción de ventas históricas corporativas.
@@ -21,7 +21,7 @@ El pipeline procesa información de los siguientes componentes:
 
 ---
 
-## 🛠️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── proyecto.py              # Script principal con el pipeline ETL completo
